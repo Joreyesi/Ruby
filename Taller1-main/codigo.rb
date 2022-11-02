@@ -8,3 +8,4 @@ while respuesta == "si" do
 end
 
 puts "fin"
+puts "codigos"
