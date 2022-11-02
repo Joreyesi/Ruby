@@ -7,4 +7,4 @@ while respuesta == "si" do
     respuesta = gets.chomp
 end
 
-puts
+puts "fin"
